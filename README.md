@@ -163,7 +163,7 @@ There are a lot of concepts here, I have put up a post to explain them:
 - [The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds](papers/storage-engine/pgm-index-vldb2020.pdf) (VLDB, 2020)
 
 
-- [The Azure Storage Service with strong consistency](papers/Windows-Azure-Storage-A-Highly-Available-Cloud-Storage-Service-with-Strong-Consistency.pdf)
+- [The Azure Storage Service with strong consistency](papers/storage-engine/Windows-Azure-Storage-A-Highly-Available-Cloud-Storage-Service-with-Strong-Consistency.pdf)
 
 ## Database Optimizer
 
