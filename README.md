@@ -8,6 +8,8 @@ That's great, me too.
 Being a database developer is fun and challenging.
 But don't panic, I have collected a lot of awesome materials for us.
 
+follow my progress [log](log/log.md)
+
 ## Operating System
 
 ### Papers
@@ -159,6 +161,9 @@ There are a lot of concepts here, I have put up a post to explain them:
 - [MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph](papers/storage-engine/myrocks-vldb20.pdf) (VLDB, 2020)
 
 - [The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds](papers/storage-engine/pgm-index-vldb2020.pdf) (VLDB, 2020)
+
+
+- [The Azure Storage Service with strong consistency](papers/Windows-Azure-Storage-A-Highly-Available-Cloud-Storage-Service-with-Strong-Consistency.pdf)
 
 ## Database Optimizer
 
